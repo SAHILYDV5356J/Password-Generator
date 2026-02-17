@@ -126,7 +126,7 @@ function App() {
           }}
           
           />
-          <label htmlFor="symbInput">Charaters</label>
+          <label htmlFor="symbInput">Symbols</label>
         </div>
       </div>
 
